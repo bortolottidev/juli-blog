@@ -6,5 +6,6 @@ urlpatterns = [
     # url(r'^$', 'juliaproj.views.home', name='home'),
     # url(r'^blog/', include('blog.urls')),
 
+    url(r'', include('indizio.urls')),
     url(r'^admin/', include(admin.site.urls)),
 ]

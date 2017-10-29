@@ -1,0 +1,36 @@
+{% extends 'indizio/base.html' %}
+
+{% block title1 %}
+	{{ indizio.title }}
+	--
+	{{ indizio.id }}
+{% endblock %}
+
+{% block content1_title %}
+	{{ indizio.text }}
+{% endblock content1_title %}
+
+{% block content1 %}
+	{{ testo1p }}
+{% endblock content1 %}
+
+
+{% block title2 %}
+{% endblock %}
+
+{% block content2_title %}
+	<ul class="w3-ul">
+	{% for scelta in scelte %}
+		<li>
+			<a href="{%url 'indizio' scelta.indizio_next.id %}" class="w3-button w3-circle w3-red">
+				@
+			</a> 
+			{{ scelta }}
+		</li>
+	{% endfor %}
+	</ul>
+
+{% endblock content2_title %}
+
+{% block content2 %}
+{% endblock content2 %}

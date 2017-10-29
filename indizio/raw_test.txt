@@ -1,0 +1,295 @@
+[1] Il treno
+Dove tutto ebbe inizio. 
+
+Ricordo bene quel momento, era una serata di una tempestosa giornata di Aprile. Viaggiavo sola nel mio treno diretto a Londra, tranquilla e spensierata come al solito, mentre guardavo fuori dal finestrino.
+Il passeggero al mio fianco dormicchiava, girandosi a volte verso di me, a volte verso l'interno del corridoio.
+Sapevo di dover attendere, i treni non mi avevano mai ispirato fiducia, tuttavia la noia ebbe la meglio, e decisi di indagare sul regalo che Daniele mi aveva fatto.
+Povero Daniele, così occupato nel suo cazzeggiare a casa, aveva fatto appena in tempo a salutarmi prima che partissi, per darmi il suo regalo, un bacio e tanti "ti amo", prima che l'autobus partisse.
+Lo sollevai, cercai di stimare il suo peso e lo rigirai un po'. Era leggero, e un po' strano. Come se vi fosse un peso al suo interno non ben bloccato, che quindi si spostava, vittima della gravità.
+
+<<Cingue ero pe mia familia?>>
+
+Sobbalzai dallo spavento. Non mi aspettavo ci fosse qualcun altro sul nostro vagone. Il nostro amico marocchino (forse) era piuttosto silenzioso.
+
+<< Alora? >>
+
+1) Gli darò cinque sterline, anche se mi toccherà tirar fuori il portafogli, dopotutto ha diritto anche lui a vivere. [2]
+
+2) Gli darò le due sterline che ho in tasca e speriamo se ne vada.. [3]
+
+3) Scappa! [4]
+
+
+
+
+
+
+[2][3][4] Kings Cross
+
+[2] << Oh sì, un secondo.. >> gli risposi, tirando fuori il portafogli, da cui sbucavano diverse banconote. 
+Feci per dargli cinque sterline quando lui esclamò: << Tu tirghia, guadda quanto hai! >> e cercò di strapparmi di mano il portafogli.
+Avendo intuito quanto voleva fare, fui più veloce io, lo rimisi in borsetta ed esclamai << Hey! Ma che modi.. >>. 
+Il mio vicino durante quella scenata se n'era andato, e non solo. Aveva approfittato della mia distrazione per prendersi il mio regalo!
+Raccolsi tutto in fretta e mi apprestai ad inseguirlo.
+
+[3] Gli dissi: << Tieni, purtroppo ho solo queste due sterline con me. >>
+Ma non ci credette evidentemente, perchè mi guardò male, e le prese, borbottando qualcosa tipo "italiani tirghi".
+In quell'attimo successe. Il mio compagno di viaggio si alzò lentamente, prese il mio regalo e mi spinse a sedere sul sedile. mettendosi a correre verso la locomotiva. Raccolsi tutto in fretta e mi apprestai ad inseguirlo.
+
+[4] Raccolsi la mia roba, in fretta e furia, e mi misi a correre nella direzione opposta al mendicante. Corsi per qualche vagone, tra gli sguardi incuriositi di quelli che mi vedevano, e mi fermai. Non mi stava seguendo.
+Ma che stavo facendo? Mi misi a ridere lì, da sola. Salvini sarebbe stato fiero di me.
+Oh no! Il regalo! Avevo dimenticato il mio regalo nel posto di fianco a me, dove lo avevo riposto velocemente all'arrivo dello straniero.
+Tornai indietro al mio posto, con passo più svelto possibile.
+Nulla. Nè lo straniero, nè il mio dormiglioso vicino.
+
+Il treno iniziò a rallentare. Una voce annunciò: << Stiamo arrivando a: King's Cross >>. Oh no, no no..
+Iniziai ad andare verso la locomotiva, sperando di incontrare il mio malfattore, ma la gente stava iniziando ad alzarsi, e avanzare era sempre più problematico.
+Il treno si fermò e io mi precipitai fuori dalla prima porta disponibile. Davanti a me, sei vagoni, dodici porte. La gente scendeva ordinatamente, e tranquilla quando.. Il mio vicino di treno!
+Era appena sceso dal secondo vagone e senza girarsi si mise a correre verso le scale, col mio regalo sottobraccio.
+Provai a ricordarmi la sua faccia, ma niente, era stato un signor nessuno da quando si era seduto ad ora, e non ricordavo nulla di lui.
+Sapevo di essere fregata, quei pochi vagoni che ci separavano rendevano impossibile raggiungerlo in tempi rapidi, sopratutto con zaino e borsetta appresso.
+
+1) Inseguilo!
+{
+	Corsi, corsi, fin giù dalle scale. Davanti a me un corridoio immenso, con gente che camminava veloce in ogni direzione. Guardai a destra, sinistra. Niente. 
+	Scelsi a caso di correre verso sinistra, sperando di riconoscere qualcosa di lui nei tanti passanti che mi si paravano davanti.
+	Per qualche minuto continuai a correre, prima di arrendermi all'evidenza.
+	L'avevo perso.
+	<< Fuck you, maccaroni girl! >>
+	Cos.. Non feci in tempo a capire chi l'aveva detto che mi trovai per terra, spinta da un teppistello, mentre un altro mi aveva rubato la borsetta.
+	Forse, non era stata una buona idea.. [BACK]
+}
+
+2) Meglio andare in hotel a riposare e riflettere sul da farsi [5]
+
+
+
+
+
+
+
+
+[5] In metro
+
+Capii che ormai era andato. Ero immensamente arrabbiata e affranta per il regalo perso.
+Camminai a passo rapido verso la metro, non vedevo l'ora di fare la doccia e riposarmi, il viaggio mi aveva esaurito.
+Stavo arrivando alle macchinette per fare i biglietti, quando ecco che lo rividi, maglietta London Zoo, giubbotto National Gallery e occhiali da sole, il mio compagno di viaggio!
+Anche lui mi vide, e si affrettò a saltare i tornelli e fuggire nuovamente. No, non questa volta.
+Scavalcai anche io i tornelli e continuai a correre fino al bivio Walthamstow/Brixton. Dannazione! Diedi un calcio al muro e, tra gli sguardi un po' incuriositi dei passanti, presi la direzione del mio Hotel, a Warwick Avenue. 
+
+1) Vai all'hotel [6]
+
+2) Cercalo sulla tua metro, sperando di aver beccato la direzione giusta [7]
+
+
+
+
+
+
+
+
+[6] Hotel
+
+Era praticamente notte quando entrai, più stanca che mai, all'hotel.
+Presi le mie chiavi della camera, dopo aver farfugliato qualcosa su chi ero e da dove venivo all'albergatore, ed andrai dritta a far la doccia.
+Quel tipo, chiunque fosse, aveva un chè di famigliare. Come dannazione avevo fatto in treno a non notare un individuo vestito come un albero di natale.
+La mattina dopo mi svegliai presto, e capii che c'erano solo tre cose che potevo fare. Scelsi per la più sensata.
+
+1) Andare dalla polizia, loro avrebbero visto dalle telecamere della metro e mi avrebbero aiutato [8]
+
+2) Indagare al London Zoo [9]
+
+3) Indagare alla National Gallery [10]
+
+
+
+
+
+
+[7] Hyde park
+
+Ero esausta ormai, ma camminai una volta salita sulla metro, in attesa di arrivare a Oxford Circus, nella speranza di trovare il mio assalitore.
+Ero appena arrivata alla mia destinazione, quant'ecco che mi parve di vedere due occhiali noti, tra la folla dell'altro vagone. Rientrai in fretta sul mio vagone e camminai verso di lui, infuriata. Evidentemente mi notò, perchè inziò anche lui a camminare nella direzione opposta alla mia.
+Si aprirono le porte, e una marea di gente scese a Green Park. Con loro, anche io e lui.
+Deja vù. Per l'ennesima volta, lo persi, nella folla. Era disperata, volevo prendere a pugni il muro. 
+Iniziava a farsi buio, e io camminai verso Hyde park, per dare noccioline agli scoiattoli, come magra consolazione.
+
+1) Cerca ancora nella metro 
+{
+	Scesi ancora quelle maledette scale, cercando di rimanere concentrata. Dovevo riuscire a ritrovarlo. Quel regalo era troppo importante, per lasciarlo andare così.
+	Fissai negli occhi tutti quelli che incrociavo, come sperando che uno di loro cedesse, urlando "Ok, sono stato io", restituendomi il regalo, ma non fu molto utile..
+	La stazione ora sembrava mezza vuota, come ulteriore beffa.
+	Ovunque lui fosse andato, di certo di non era lì.
+	La mia ricerca era stata infruttuosa. [BACK]
+}
+
+2) Vai al Big Ben! (ma perché?!)
+
+3) Vai in hotel, che è meglio [6]
+
+
+
+
+
+
+
+
+[8] Polizia
+
+Entrai nella stazione di polizia, più positiva che mai. Insomma, la polizia italiana non fa nulla, ma quella inglese, eh sì, loro sì che sono utili e vicini ai cittadini, mi avrebbero saputo aiutare sicuramente.
+Attesi il mio turno, andai a parlare con un agente e gli spiegai il mio problema. Dopo alcuni minuti di ricerca, ritrovammo una telecamera che aveva filmato in nostro inseguimento.
+Studiai meglio il mio assalitore: un po' goffo, stazza media, capelli castani di lunghezza media, e una cicatrice sul collo.
+Sembrava un dannato lego. L'unico particolare che poteva essere utile era quella cicatrice. 
+
+Morale? Trentasette sterline di multa per aver saltato i tornelli, e quasi nessun indizio di particolare utilità. Molto bene.
+
+1) Sarebbe stato meglio andare al London Zoo.. [9]
+
+2) Sarebbe stato meglio andare alla National Gallery.. [10]
+
+
+
+
+
+[9] London Zoo
+
+Lo zoo di Londra. Quale strano collegamento poteva avere il misterioso individuo con questo edificio?
+Mi diressi senza pensarci due volte all'ingresso dei dipendenti. Badge richiesto per entrare. Cosa fare? Social hackering! 
+Arrivò un altro tizio, con la tuta dello zoo e l'aria scocciata. Lo fermai subito: << Hey, scusami, sono nuova, Giulia >>
+<< Will >> mi rispose lui, allungando la mano, ma tenendosi sulle sue. 
+<< Ehm, ecco.. Io dovrei lavorare per i cespugli nell'area coccodrilli, ma ho dimenticato il Badge a casa, è il mio primo giorno oggi. Non è che potresti farmi entrare? Appena vedrò il capo riparerò all'errore. >>
+Mi squadrò da capo a piedi. Evidemente gli dovetti ispirare fiducia, perchè mi fece entrare.
+Ma che fare ora?
+
+1) Vai allo spogliatoio, ancora social hackering!
+{
+	Entrai nello spogliatoio delle donne, alla ricerca di una english gurl da ammagliare, quando ne vedi una.
+	Mi guardò un po' incuriosita e rispose: << Uhm.. Salve, tu saresti? >>
+	La durezza di quelle parole mi aveva lasciato un po' di stucco, ma prontamente risposi << Hey, ciao! Sono Ilenia. Sono stata assunta da poco per.. >>
+	Mi fermai, fissando il suo badge attaccato al petto: "Capo del personale". Holy moly.
+	Mi girai e iniziai a correre. Inutile dirlo, dieci secondi dopo ero stata fermata, e mi trovai in manette nel giro di un ora, dopo che la polizia era stata avvisata. Maledetta efficenza inglese.
+}
+
+2) Dritto ad indagare!
+{
+	Lo spogliatoio delle donne era sulla mia sinistra, ma io non avevo tempo per questo. Tirai dritto, sentendo uno sguardo su di me. Mi girai, e vidi Will che mi fissò, per un attimo, prima di andare nello spogliatoio maschile.
+	Accellerai il passo, dovevo uscire da lì, fuori sarei stata meno sospetta.
+	Dopo aver girato un po', evitando alla benemeglio tutti quelli che incontravo, riuscii a trovare la porta per lo zoo.
+	Stavo camminando da ormai cinque minuti, quando incontrai una ragazza con la tuta dello zoo. Mi fissò un attimo, e disse, decisa: << Salve, sono Molly, il capo del personale. Mi è stato riferito che lei si è intromessa senza autorizzazione. >>
+	Non feci in tempo a risponderle << M-Mi dispiace, il fatto è che sto indag.. >> che lei aggiunse << Faccia il piacere, esca di qua e non si faccia più rivedere, se non vuole che chiami la polizia. >>
+	Dannazione, ero di nuovo fuori, con una minaccia di denuncia e nessuna prova. 
+}
+
+3) Questa è una cazzata. Esci e vattene da lì. [12]
+
+
+[10] La National gallery 
+
+La National Gallery era un museo estremamente ben controllato. Cercai di fare qualche domanda sul loro personale, dicendo che facevo parte di un giornale locale, ma fu poco d'aiuto. Privacy di qua, privacy di là, non ti possiamo dire nulla.
+Questa strada era inutile. Pensai che avrei potuto intrufolarmi, aspettando che entrasse qualcuno, per tentare di scroccare un badge. Era un piano, un po' folle, ma forse avrebbe potuto funzionare.
+
+1) è una cazzata, vattene da lì. [12]
+
+2) Credici! {
+	E in effetti ci credetti.
+	Evidemente fin troppo, perché mi ritrovai con una denuncia per infastidimento al personale.
+	Ma dico, seriamente? Forse se l'erano presa un po' troppo, per qualche domanda, ma la mia allegra storia a Londra finì qua, così..
+ }
+
+
+
+[11] Cambio della guardia
+
+Erano quasi le 11.30, perchè scendere a St. James Park? 
+
+
+
+[12] Metropolitana
+
+Capii che  stavo facendo una cazzata. {{Intrufolarsi nello zoo di Londra?/Intrufolarsi alla National Gallery?}} A quale pro? Mi aspettavo forse di fare domande a tutti come un detective della polizia, senza che nessuno dicesse nulla?
+Uscii da dove ero entrata e mi avviai verso la fermata della metropolitana più vicina. Cosa potevo fare ora?
+Presi in mano il cellulare, dovevo chiamare Daniele. Le telefonate di whatsapp fanno schifo, ma dovevo dirglielo, ora, per togliermi questo peso.
+Stavo cercando il suo numero quando mi sentii osservata.
+Alzai la testa ed eccolo lì, l'infame. Mi stava osservando dalla scala mobile che saliva verso di me. 
+Misi via il cellulare e iniziai a correre, dovevo approfittarne, ora o mai più. 
+Lui si girò e iniziò a correre verso il basso, tra gli insulti di quelli che era costretto a spintonare.
+Con le scale mobili dalla mia, avevo guadagnato molto terreno, tuttavia era più veloce di me, e feci appena in tempo ad entrare qualche vagone più in là del suo prima che le porte si chiusero.
+Avevo un nuovo piano. Non potevo batterlo in velocità, ma forse potevo pedinarlo. Per qualche fermata mi tenni distante, senza neanche avvicinarmi, dando solo un'occhiata alla gente che scendeva per controllare non vi fosse anche lui.
+
+1) Continua così {
+	Continuai a tenermi distante, senza farmi nemmeno vedere, quand'ecco che lo vidi scendere, guardarsi un po' intorno, e poi camminare tranquillo.
+	Aspettai fino all'ultimo, e mi scaraventai fuori, tenendo dopo il passo più tranquillo ma veloce possibile. Volevo che non mi notasse, anche in caso si fosse girato a controllare. 
+	Inutile dirlo, fu inutile.
+	Appena usciti dalla metro era riniziata la mia caccia per le vie di Londra. [20]
+}
+
+2) Avvicinati {
+	Attesi qualche fermata, e riniziai ad avanzare. Sapevo che lui era ancora lì dentro, non l'avevo visto scendere.
+	Cicatrice dietro il collo, aria un po' inquietata che si guardava intorno, eccolo lì, seduto su una sedia singola.
+	Mi avvicinai piano, come a non voler farmi sentire, nel casino della metro in movimento. Lui si alzò, senza girarsi, improvvisamente. Scattai in avanti, dovevo fermarlo, ma feci appena in tempo a sfiorargli in collo, quando riniziò la nostra danza. Mi guardai la mano, era sporca di nero, qualcosa tipo inchiostro.. Cosa diamine significava?
+	Scocciata guardai in alto: lo specchio mi aveva fregata, ed ora stavamo già rallentando per la prossima sosta. L'avrei perso lì? Ancora una volta? [20]
+}
+
+
+
+
+[20] Torre di Londra
+
+Ero esausta, sopratutto mentalmente, non ne potevo più di questo inseguimento. Tuttavia quell'individuo doveva avere un cuore. Se solo avessi potuto parlargli. Chi mai sarebbe così spietato da non ridarmi indietro il regalo di quinto anniversario?
+Avrebbe dovuto capire, ne ero certa.
+Mi guardai intorno. La nostra corsa mi aveva fatto perdere il senso del tempo e dello spazio, dove eravamo finiti? Solo allora capii. Aveva commesso un errore. Era corso dentro la Torre di Londra.
+C'era solo un ingresso/uscita da lì, e prima o poi ci saremmo rivisti.
+Sarebbe finita in quel posto, bene o male, sotto il gracchiare spietato dei corvi.
+
+1) Attendi sul posto!
+
+{
+	Passarono quelle che sembravano un paio di ore, e sentii il bisogno di andare in bagno. Controllai l'orologio, erano passati appena venti minuti. Dannazione, il mio piano non sembrava ottimo.
+	Meglio andare dentro, la vita da guardia non fa per me. [66]
+}
+
+2) Cercalo dentro, finiamo questo inseguimento! [66]
+
+
+
+
+[66] La prigione
+
+Controllai in giro: sparito ovviamente. 
+Ma c'era poca gente quel giorno, ero stata fortunata almeno. 
+Mi recai al bagno, non c'era fretta, tanto per ora l'avevo perso comunque. Di certo non potevo correre in queste condizioni.
+Fatto ciò, mi fermai a pensare: se io non vedevo lui, probabilmente neanche lui stava vedendo me. E dove poteva essersi nascosto?
+Mi girai d'improvviso verso la struttura che si ergeva al centro del castello, le prigioni!
+Mentre salivo un scale dell'ingresso, un pensiero inquientante mi attraversò la mente: ma chi era il cacciatore, e chi la preda?
+Entrai con la consapevolezza che, in un qualche modo, ore e ore di inseguimento avrebbero portato a qualcosa, ed infatti lì, attaccato al muro, c'era un foglio: "Per Giulia: Ci vediamo al tuo Hotel. Stanza 112."
+Mi aveva fregata, un'altra volta, aggirandomi dalle prigioni, probabilmente mentre io entravo era uscito dal retro. 
+Ma quel biglietto.. Cosa diamine voleva dire?
+Presi la metro e tornai al mio Hotel. La stanza 112 era a pochi passi dalla mia, c'ero passata davanti diverse volte durante il mio viaggio. Era socchiusa. Trassi un respiro profondo, ed entrai. Passo, dopo passo.
+Una musica lieve aleggiava nell'aria, quand'ecco che lo vidi. Il mio malfattore si stava tranquillamente lavando la faccia, il lavandino ero totalmente sporco di colori. Ma cosa..
+<< Ben arrivata. >> disse lui, sentendosi osservato.
+Conoscevo bene quella voce, e fui attraversata da almeno dieci emozioni diversi. Dapprima, volli buttarmi sul letto per ridere fino all'internamento alla british Villa Rosa, ma poi decisi di corrergli addosso per prenderlo a schiaffi di cattiveria.
+Si girò felice come un bambino per natale, quello stronzo del mio moroso. << Perdonami, ma è stato necessario. Nella mia indecisione, dovevo essere sicuro che tu mi amassi, quanto io amo te..>> disse.
+<< Ma vaaaffff.. >> risposi io, incazzata come una seppia, ma felicissima della sua presenza a Londra.
+<< E poi, c'è un altro motivo se ho fatto tutto ciò >> aggiunse.
+
+[next]
+
+Dovevo essere sicuro che tu mi amassi quanto ti amo io, anche se non te lo dico mai.
+Dovevo dirti che googlo arabe, teen, gym gurls, big boobs, milf, bianche, magrebine, e chi più ne ha più ne metta, ma ti trovo la più attraente donna che io abbia mai visto.
+Dovevo dirti che sei bella quando ti arrabbi ed è troppo divertente farti arrabbiare, quindi continuerò a farlo sempre. Non te la prendere.
+Dovevo dirti che il tuo collo è troppo attraente, anche se ti dà fastidio. Ma forse è proprio questo il bello?
+Dovevo dirti che sono più indeciso di Ceres coi suoi hobby, ma nonostante questo, tu sei una sicurezza.. è bello poter contare su di te.
+Dovevo dirti che mi fai sentire un uomo, anche se sono ancora un ragazzino con qualche idea un po' cresciuta.
+Dovevo dirti che ti amo tanto.
+Ti amo quando mi accompagni nei miei hobby assurdi.
+Ti amo quando ti arrabbi con me.
+Ti amo quando mi richiami perchè sono un cazzaro, e quando stai con me lasciandomi cazzeggiare.
+Aggiunta finale: Ti amo quando mi perdoni anche se il tuo regalo era più bello e homemade del mio. 
+Buon regalo di quinto anniversario.
+
+Il regalo è il percorso, non l'oggetto.
+Spero tu l'abbia trovato divertente quanto me.
+Ti amo ancora
+e ancora
+e
+per sempre
