@@ -10,7 +10,6 @@ def indizio (request, indizio_id):
 	indizio = get_object_or_404(Indizio, pk=indizio_id)
 	scelte = indizio.fromz.all()
 	context = {'scelte': scelte, 'indizio':indizio}
-	print(indizio_id)
 	if (int(indizio_id) == 29):
 		return render(request, 'indizio/fine.html', {})
 	else:
