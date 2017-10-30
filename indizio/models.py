@@ -8,7 +8,7 @@ class Indizio(models.Model):
 		#null=True, default=NULL, through='Scelta')
 
 	def __str__(self):
-		return self.title+" "+self.text[:20]
+		return self.title+" -- "+self.text[:100]
 
 class Scelta(models.Model):
 	# Molte scelta portano allo stesso indizio

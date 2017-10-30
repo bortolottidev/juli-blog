@@ -7,11 +7,10 @@
 {% endblock %}
 
 {% block content1_title %}
-	{{ indizio.text }}
+	{{ indizio.text | safe }}
 {% endblock content1_title %}
 
 {% block content1 %}
-	{{ testo1p }}
 {% endblock content1 %}
 
 
